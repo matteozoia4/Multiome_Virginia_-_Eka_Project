@@ -8,7 +8,7 @@ track E9.5_OFT-cNCC
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -69,7 +69,7 @@ track E9.5_Endocardial-2
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -131,7 +131,7 @@ track E9.5_SHF-Prog
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -192,7 +192,7 @@ track E9.5_RV-CMs
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -253,7 +253,7 @@ track E9.5_EndMT
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -315,7 +315,7 @@ track E9.5_Epicardial
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off
@@ -376,7 +376,7 @@ track E9.5_LV-CMs
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:100:18
+    maxHeightPixels 100:75:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off

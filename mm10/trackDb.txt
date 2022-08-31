@@ -283,7 +283,7 @@ track E9.5_EndMT
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530c9ae130cc8a0ae/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel EndMT
 longLabel EndMT Cluster       

@@ -7,7 +7,7 @@ track E9.5_OFT-cNCC
     visibility full
     windowingFunction mean+whiskers
     viewLimits 0:8
-    viewLimitsMax 0:20
+    viewLimitsMax 0:8
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on

@@ -6,8 +6,8 @@ track E9.5_OFT-cNCC
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:8
-    viewLimitsMax 0:8
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -67,8 +67,8 @@ track E9.5_Endocardial-2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -129,8 +129,8 @@ track E9.5_SHF-Prog
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -190,8 +190,8 @@ track E9.5_RV-CMs
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -251,8 +251,8 @@ track E9.5_EndMT
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -313,8 +313,8 @@ track E9.5_Epicardial
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -374,8 +374,8 @@ track E9.5_LV-CMs
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on

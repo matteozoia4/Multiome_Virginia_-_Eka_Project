@@ -81,7 +81,7 @@ track E9.5_Endocardial-2
     
         track Multiome_Julie_2022_E9.5_Endocardial-2_Profile
         parent E9.5_Endocardial-2
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357742b4b0fe073019/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2.bw
 	shortLabel Endocardial-2_Open_Chromatine
         longLabel E9.5_Endocardial-2_Cluster_Open_Chromatine
         type bigWig
@@ -91,7 +91,7 @@ track E9.5_Endocardial-2
 
         track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Profile
         parent E9.5_Endocardial-2
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355f4ef981e0c10171/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_profile.bw
 	shortLabel Endocardial-2_Specific_Open_Chromatine
         longLabel E9.5_Endocardial-2_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -99,7 +99,7 @@ track E9.5_Endocardial-2
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ea068d782297c47d/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel Endocardial-2
 longLabel Endocardial-2 Cluster       
@@ -109,7 +109,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351cf835b669fcc1c8/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks_sorted.bb
 itemRgb on
 shortLabel Endocardial-2
 longLabel Endocardial-2 Cluster       
@@ -143,7 +143,7 @@ track E9.5_SHF-Prog
 
         track Multiome_Julie_2022_E9.5_SHF-Prog_Profile
         parent E9.5_SHF-Prog
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213571c5382c90020ba9/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors.bw
 	shortLabel SHF-Prog_Open_Chromatine
         longLabel E9.5_SHF-Prog_Cluster_Open_Chromatine
         type bigWig
@@ -153,7 +153,7 @@ track E9.5_SHF-Prog
 
         track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Profile
         parent E9.5_SHF-Prog
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a39fa3b1c9fb5ed5/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_profile.bw
 	shortLabel SHF-Prog_Specific_Open_Chromatine
         longLabel E9.5_SHF-Prog_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -161,7 +161,7 @@ track E9.5_SHF-Prog
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ff75bdd9d87a3ae4/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel SHF-Prog
 longLabel SHF-Prog Cluster       
@@ -171,7 +171,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356e7bd7a86b34f83e/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks_sorted.bb
 itemRgb on
 shortLabel SHF-Prog
 longLabel SHF-Prog Cluster       
@@ -204,7 +204,7 @@ track E9.5_RV-CMs
     
         track Multiome_Julie_2022_E9.5_RV-CMs_Profile
         parent E9.5_RV-CMs
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213521b6fc2cfd579f35/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs.bw
 	shortLabel RV-CMs_Open_Chromatine
         longLabel E9.5_RV-CMs_Cluster_Open_Chromatine
         type bigWig
@@ -214,7 +214,7 @@ track E9.5_RV-CMs
 
         track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Profile
         parent E9.5_RV-CMs
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c03b1c2d30bcf56b/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_profile.bw
 	shortLabel RV-CMs_Specific_Open_Chromatine
         longLabel E9.5_RV-CMs_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -222,7 +222,7 @@ track E9.5_RV-CMs
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d6339b4b4ec90226/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel RV-CMs
 longLabel RV-CMs Cluster       
@@ -232,7 +232,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357f861f613d6f9a94/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks_sorted.bb
 itemRgb on
 shortLabel RV-CMs
 longLabel RV-CMs Cluster       
@@ -265,7 +265,7 @@ track E9.5_EndMT
     
         track Multiome_Julie_2022_E9.5_EndMT_Profile
         parent E9.5_EndMT
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213524ec5cc46a7601c5/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT.bw
 	shortLabel EndMT_Open_Chromatine
         longLabel E9.5_EndMT_Cluster_Open_Chromatine
         type bigWig
@@ -293,7 +293,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213585ec99f3b24b3fac/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks_sorted.bb
 itemRgb on
 shortLabel EndMT
 longLabel EndMT Cluster       
@@ -327,7 +327,7 @@ track E9.5_Epicardial
     
         track Multiome_Julie_2022_E9.5_Epicardial_Profile
         parent E9.5_Epicardial
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135871d003d064d9e25/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial.bw
 	shortLabel Epicardial_Open_Chromatine
         longLabel E9.5_Epicardial_Cluster_Open_Chromatine
         type bigWig
@@ -337,7 +337,7 @@ track E9.5_Epicardial
 
         track Multiome_Julie_2022_E9.5_Epicardial_Specific_Profile
         parent E9.5_Epicardial
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135bf05fc7ce362a742/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_profile.bw
 	shortLabel Epicardial_Specific_Open_Chromatine
         longLabel E9.5_Epicardial_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -345,7 +345,7 @@ track E9.5_Epicardial
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213586311e445fcf8470/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel Epicardial
 longLabel Epicardial Cluster       
@@ -355,7 +355,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213553360dcf5e69869b/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks_sorted.bb
 itemRgb on
 shortLabel Epicardial
 longLabel Epicardial Cluster       
@@ -388,7 +388,7 @@ track E9.5_LV-CMs
     
         track Multiome_Julie_2022_E9.5_LV-CMs_Profile
         parent E9.5_LV-CMs
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213503c07a74dbc5c329/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs.bw
 	shortLabel LV-CMs_Open_Chromatine
         longLabel E9.5_LV-CMs_Cluster_Open_Chromatine
         type bigWig
@@ -398,7 +398,7 @@ track E9.5_LV-CMs
 
         track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Profile
         parent E9.5_LV-CMs
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135332f3a0de9cc5665/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_profile.bw
 	shortLabel LV-CMs_Specific_Open_Chromatine
         longLabel E9.5_LV-CMs_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -406,7 +406,7 @@ track E9.5_LV-CMs
         color 250,0,0
 
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356d45c822816ba0d1/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel LV-CMs
 longLabel LV-CMs Cluster       
@@ -416,7 +416,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c93304c6daf4b346/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks_sorted.bb
 itemRgb on
 shortLabel LV-CMs
 longLabel LV-CMs Cluster       

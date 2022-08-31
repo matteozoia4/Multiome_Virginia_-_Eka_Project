@@ -8,7 +8,7 @@ track E9.5_OFT-cNCC
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:5
-    maxHeightPixels 100:30:18
+    maxHeightPixels 100:50:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
     autoScale off

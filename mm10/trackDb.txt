@@ -41,8 +41,8 @@ track E9.5_OFT-cNCC
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a293d69ddaa4fa01/display?to_ext=bigbed
 itemRgb on
-shortLabel OFT-cNCC
-longLabel OFT-cNCC Cluster       
+shortLabel OFT-cNCC Peaks (-A)
+longLabel OFT-cNCC Specific Peaks (-A)      
 type bigBed 3 .
 configurable on
 visibility dense
@@ -51,8 +51,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135468cd13f7bb4b05f/display?to_ext=bigbed
 itemRgb on
-shortLabel OFT-cNCC
-longLabel OFT-cNCC Cluster       
+shortLabel OFT-cNCC Peaks
+longLabel OFT-cNCC Specific Peaks       
 type bigBed 3 .
 configurable on
 visibility dense
@@ -101,8 +101,8 @@ track E9.5_Endocardial-2
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel Endocardial-2
-longLabel Endocardial-2 Cluster       
+shortLabel Endocardial-2 Peaks (-A)
+longLabel Endocardial-2 Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
 visibility dense
@@ -111,8 +111,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks_sorted.bb
 itemRgb on
-shortLabel Endocardial-2
-longLabel Endocardial-2 Cluster       
+shortLabel Endocardial-2 Peaks 
+longLabel Endocardial-2 Specific Peaks       
 type bigBed 3 .
 configurable on
 visibility dense
@@ -163,8 +163,8 @@ track E9.5_SHF-Prog
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel SHF-Prog
-longLabel SHF-Prog Cluster       
+shortLabel SHF-Prog Peaks (-A)
+longLabel SHF-Prog Specific Peaks (-A)        
 type bigBed 3 .
 configurable on
 visibility dense
@@ -173,8 +173,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks_sorted.bb
 itemRgb on
-shortLabel SHF-Prog
-longLabel SHF-Prog Cluster       
+shortLabel SHF-Prog Peaks 
+longLabel SHF-Prog Specific Peaks       
 type bigBed 3 .
 configurable on
 visibility dense
@@ -224,8 +224,8 @@ track E9.5_RV-CMs
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel RV-CMs
-longLabel RV-CMs Cluster       
+shortLabel RV-CMs Peaks (-A)
+longLabel RV-CMs Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
 visibility dense
@@ -234,8 +234,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks_sorted.bb
 itemRgb on
-shortLabel RV-CMs
-longLabel RV-CMs Cluster       
+shortLabel RV-CMs Peaks 
+longLabel RV-CMs Specific Peaks       
 type bigBed 3 .
 configurable on
 visibility dense
@@ -285,8 +285,8 @@ track E9.5_EndMT
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel EndMT
-longLabel EndMT Cluster       
+shortLabel EndMT Peaks (-A)
+longLabel EndMT Specific Peaks (-A)        
 type bigBed 3 .
 configurable on
 visibility dense
@@ -295,8 +295,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks_sorted.bb
 itemRgb on
-shortLabel EndMT
-longLabel EndMT Cluster       
+shortLabel EndMT Peaks 
+longLabel EndMT Specific Peaks      
 type bigBed 3 .
 configurable on
 visibility dense
@@ -347,8 +347,8 @@ track E9.5_Epicardial
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel Epicardial
-longLabel Epicardial Cluster       
+shortLabel Epicardial Peaks (-A)
+longLabel Epicardial Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
 visibility dense
@@ -357,8 +357,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks_sorted.bb
 itemRgb on
-shortLabel Epicardial
-longLabel Epicardial Cluster       
+shortLabel Epicardial Peaks 
+longLabel Epicardial Specific Peaks       
 type bigBed 3 .
 configurable on
 visibility dense
@@ -408,8 +408,8 @@ track E9.5_LV-CMs
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel LV-CMs
-longLabel LV-CMs Cluster       
+shortLabel LV-CMs Peaks (-A)
+longLabel LV-CMs Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
 visibility dense
@@ -418,8 +418,8 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks_sorted.bb
 itemRgb on
-shortLabel LV-CMs
-longLabel LV-CMs Cluster       
+shortLabel LV-CMs Peaks 
+longLabel LV-CMs Specific Peaks      
 type bigBed 3 .
 configurable on
 visibility dense

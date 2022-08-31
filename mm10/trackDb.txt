@@ -38,7 +38,7 @@ track E9.5_OFT-cNCC
         color 250,0,0
 
 
-track Multiome_Julie_2022_E9.5	OFT-cNCC_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a293d69ddaa4fa01/display?to_ext=bigbed
 itemRgb on
 shortLabel OFT-cNCC
@@ -48,7 +48,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	OFT-cNCC_Specific_Peaks
+track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135468cd13f7bb4b05f/display?to_ext=bigbed
 itemRgb on
 shortLabel OFT-cNCC
@@ -98,7 +98,7 @@ track E9.5_Endocardial-2
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	Endocardial-2_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ea068d782297c47d/display?to_ext=bigbed
 itemRgb on
 shortLabel Endocardial-2
@@ -108,7 +108,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	Endocardial-2_Specific_Peaks
+track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351cf835b669fcc1c8/display?to_ext=bigbed
 itemRgb on
 shortLabel Endocardial-2
@@ -160,7 +160,7 @@ track E9.5_SHF-Prog
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	SHF-Prog_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ff75bdd9d87a3ae4/display?to_ext=bigbed
 itemRgb on
 shortLabel SHF-Prog
@@ -170,7 +170,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	SHF-Prog_Specific_Peaks
+track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356e7bd7a86b34f83e/display?to_ext=bigbed
 itemRgb on
 shortLabel SHF-Prog
@@ -221,7 +221,7 @@ track E9.5_RV-CMs
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	RV-CMs_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d6339b4b4ec90226/display?to_ext=bigbed
 itemRgb on
 shortLabel RV-CMs
@@ -231,7 +231,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	RV-CMs_Specific_Peaks
+track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357f861f613d6f9a94/display?to_ext=bigbed
 itemRgb on
 shortLabel RV-CMs
@@ -282,7 +282,7 @@ track E9.5_EndMT
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	EndMT_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530c9ae130cc8a0ae/display?to_ext=bigbed
 itemRgb on
 shortLabel EndMT
@@ -292,7 +292,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	EndMT_Specific_Peaks
+track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213585ec99f3b24b3fac/display?to_ext=bigbed
 itemRgb on
 shortLabel EndMT
@@ -344,7 +344,7 @@ track E9.5_Epicardial
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	Epicardial_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213586311e445fcf8470/display?to_ext=bigbed
 itemRgb on
 shortLabel Epicardial
@@ -354,7 +354,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	Epicardial_Specific_Peaks
+track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213553360dcf5e69869b/display?to_ext=bigbed
 itemRgb on
 shortLabel Epicardial
@@ -405,7 +405,7 @@ track E9.5_LV-CMs
 	itemRgb on
         color 250,0,0
 
-track Multiome_Julie_2022_E9.5	LV-CMs_Specific_Peaks_(-A)
+track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356d45c822816ba0d1/display?to_ext=bigbed
 itemRgb on
 shortLabel LV-CMs
@@ -415,7 +415,7 @@ configurable on
 visibility dense
 color 250,0,0 
 
-track Multiome_Julie_2022_E9.5	LV-CMs_Specific_Peaks
+track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c93304c6daf4b346/display?to_ext=bigbed
 itemRgb on
 shortLabel LV-CMs

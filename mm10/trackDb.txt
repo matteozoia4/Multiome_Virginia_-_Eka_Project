@@ -6,7 +6,7 @@ track E9.5_OFT-cNCC
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:10
+    viewLimits 0:20
     viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay

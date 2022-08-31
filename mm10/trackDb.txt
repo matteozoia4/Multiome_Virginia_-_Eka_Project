@@ -6,8 +6,8 @@ track E9.5_OFT-cNCC
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
+    viewLimits 0:10
+    viewLimitsMax 0:10
     maxHeightPixels 100:30:18
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -30,7 +30,7 @@ track E9.5_OFT-cNCC
 
         track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Profile
         parent E9.5_OFT-cNCC
-        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks_sorted.bb
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_profile.bw
 	shortLabel OFT-cNCC_Specific_Open_Chromatine
         longLabel E9.5_OFT-cNCC_Cluster_Specific_Open_Chromatine
         type bigWig

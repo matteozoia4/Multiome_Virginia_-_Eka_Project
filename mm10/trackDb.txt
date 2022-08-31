@@ -20,7 +20,7 @@ track E9.5_OFT-cNCC
     
         track Multiome_Julie_2022_E9.5_OFT-cNCC_Profile
         parent E9.5_OFT-cNCC
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135df38e24f2d15bea9/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC.bw
 	shortLabel OFT-cNCC_Open_Chromatine
         longLabel E9.5_OFT-cNCC_Cluster_Open_Chromatine
         type bigWig
@@ -30,7 +30,7 @@ track E9.5_OFT-cNCC
 
         track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Profile
         parent E9.5_OFT-cNCC
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e0fc1d4e38cd4462/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks_sorted.bb
 	shortLabel OFT-cNCC_Specific_Open_Chromatine
         longLabel E9.5_OFT-cNCC_Cluster_Specific_Open_Chromatine
         type bigWig
@@ -39,7 +39,7 @@ track E9.5_OFT-cNCC
 
 
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks_(-A)
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a293d69ddaa4fa01/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks-A_sorted.bb
 itemRgb on
 shortLabel OFT-cNCC Peaks (-A)
 longLabel OFT-cNCC Specific Peaks (-A)      
@@ -49,7 +49,7 @@ visibility dense
 color 250,0,0 
 
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135468cd13f7bb4b05f/display?to_ext=bigbed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks_sorted.bb
 itemRgb on
 shortLabel OFT-cNCC Peaks
 longLabel OFT-cNCC Specific Peaks       
@@ -275,7 +275,7 @@ track E9.5_EndMT
 
         track Multiome_Julie_2022_E9.5_EndMT_Specific_Profile
         parent E9.5_EndMT
-        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135260750f0459aca1a/display?to_ext=bigwig
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_profile.bw
 	shortLabel EndMT_Specific_Open_Chromatine
         longLabel E9.5_EndMT_Cluster_Specific_Open_Chromatine
         type bigWig

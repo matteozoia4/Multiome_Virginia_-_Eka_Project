@@ -1,0 +1,430 @@
+track E9.5_OFT-cNCC
+    container multiWig
+    shortLabel E9.5_OFT-cNCC
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_OFT-cNCC_Profile
+        parent E9.5_OFT-cNCC
+        bigDataUrl 
+	shortLabel OFT-cNCC_Open_Chromatine
+        longLabel E9.5_OFT-cNCC_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Profile
+        parent E9.5_OFT-cNCC
+        bigDataUrl 
+	shortLabel OFT-cNCC_Specific_Open_Chromatine
+        longLabel E9.5_OFT-cNCC_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+
+track Multiome_Julie_2022_E9.5	OFT-cNCC_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel OFT-cNCC
+longLabel OFT-cNCC Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	OFT-cNCC_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel OFT-cNCC
+longLabel OFT-cNCC Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+track E9.5_Endocardial-2
+    container multiWig
+    shortLabel E9.5_Endocardial-2
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_Endocardial-2_Profile
+        parent E9.5_Endocardial-2
+        bigDataUrl 
+	shortLabel Endocardial-2_Open_Chromatine
+        longLabel E9.5_Endocardial-2_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Profile
+        parent E9.5_Endocardial-2
+        bigDataUrl 
+	shortLabel Endocardial-2_Specific_Open_Chromatine
+        longLabel E9.5_Endocardial-2_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	Endocardial-2_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel Endocardial-2
+longLabel Endocardial-2 Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	Endocardial-2_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel Endocardial-2
+longLabel Endocardial-2 Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+
+track E9.5_SHF-Prog
+    container multiWig
+    shortLabel E9.5_SHF-Prog
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+
+        track Multiome_Julie_2022_E9.5_SHF-Prog_Profile
+        parent E9.5_SHF-Prog
+        bigDataUrl 
+	shortLabel SHF-Prog_Open_Chromatine
+        longLabel E9.5_SHF-Prog_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Profile
+        parent E9.5_SHF-Prog
+        bigDataUrl 
+	shortLabel SHF-Prog_Specific_Open_Chromatine
+        longLabel E9.5_SHF-Prog_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	SHF-Prog_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel SHF-Prog
+longLabel SHF-Prog Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	SHF-Prog_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel SHF-Prog
+longLabel SHF-Prog Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+track E9.5_RV-CMs
+    container multiWig
+    shortLabel E9.5_RV-CMs
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_RV-CMs_Profile
+        parent E9.5_RV-CMs
+        bigDataUrl 
+	shortLabel RV-CMs_Open_Chromatine
+        longLabel E9.5_RV-CMs_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Profile
+        parent E9.5_RV-CMs
+        bigDataUrl 
+	shortLabel RV-CMs_Specific_Open_Chromatine
+        longLabel E9.5_RV-CMs_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	RV-CMs_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel RV-CMs
+longLabel RV-CMs Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	RV-CMs_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel RV-CMs
+longLabel RV-CMs Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+track E9.5_EndMT
+    container multiWig
+    shortLabel E9.5_EndMT
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_EndMT_Profile
+        parent E9.5_EndMT
+        bigDataUrl 
+	shortLabel EndMT_Open_Chromatine
+        longLabel E9.5_EndMT_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_EndMT_Specific_Profile
+        parent E9.5_EndMT
+        bigDataUrl 
+	shortLabel EndMT_Specific_Open_Chromatine
+        longLabel E9.5_EndMT_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	EndMT_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel EndMT
+longLabel EndMT Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	EndMT_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel EndMT
+longLabel EndMT Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+
+track E9.5_Epicardial
+    container multiWig
+    shortLabel E9.5_Epicardial
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_Epicardial_Profile
+        parent E9.5_Epicardial
+        bigDataUrl 
+	shortLabel Epicardial_Open_Chromatine
+        longLabel E9.5_Epicardial_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_Epicardial_Specific_Profile
+        parent E9.5_Epicardial
+        bigDataUrl 
+	shortLabel Epicardial_Specific_Open_Chromatine
+        longLabel E9.5_Epicardial_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	Epicardial_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel Epicardial
+longLabel Epicardial Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	Epicardial_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel Epicardial
+longLabel Epicardial Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+track E9.5_LV-CMs
+    container multiWig
+    shortLabel E9.5_LV-CMs
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Multiome_Julie_2022_E9.5_LV-CMs_Profile
+        parent E9.5_LV-CMs
+        bigDataUrl 
+	shortLabel LV-CMs_Open_Chromatine
+        longLabel E9.5_LV-CMs_Cluster_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 220,220,220
+          
+
+        track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Profile
+        parent E9.5_LV-CMs
+        bigDataUrl 
+	shortLabel LV-CMs_Specific_Open_Chromatine
+        longLabel E9.5_LV-CMs_Cluster_Specific_Open_Chromatine
+        type bigWig
+	itemRgb on
+        color 250,0,0
+
+track Multiome_Julie_2022_E9.5	LV-CMs_Specific_Peaks_(-A)
+bigDataUrl 
+itemRgb on
+shortLabel LV-CMs
+longLabel LV-CMs Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+track Multiome_Julie_2022_E9.5	LV-CMs_Specific_Peaks
+bigDataUrl 
+itemRgb on
+shortLabel LV-CMs
+longLabel LV-CMs Cluster       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,0,0 
+
+
+
+

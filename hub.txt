@@ -1,0 +1,5 @@
+hub Multiome Analysis Virginia & Eka Project
+shortLabel Open Accessible Chromatine Signatures E9.5
+longLabel Multiome Analysis E9.5 Julie Gamart 2022
+genomesFile genomes.txt 
+email matteo.zoia@dbmr.unibe.ch

@@ -128,7 +128,15 @@ configurable on
 visibility dense
 color 250,0,0 
 
-
+track Multiome_Julie_2022_E9.5_Endocardial-2_Open_accessible_Chromatine_Peaks
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_sorted.bb
+itemRgb on
+shortLabel Endocardial-2 Peaks
+longLabel Endocardial-2 Op. Acc. Chrom. Peaks     
+type bigBed 3 .
+configurable on
+visibility dense
+color 220,220,220 
 
 
 track E9.5_SHF-Prog

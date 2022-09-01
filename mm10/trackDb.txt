@@ -62,7 +62,7 @@ track Multiome_Julie_2022_E9.5_OFT-cNCC_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_sorted.bb
 itemRgb on
 shortLabel OFT-cNCC Peaks
-longLabel OFT-cNCC Open_accessible_Chromatine_Peaks       
+longLabel OFT-cNCC Op. Acc. Chrom. Peaks     
 type bigBed 3 .
 configurable on
 visibility dense

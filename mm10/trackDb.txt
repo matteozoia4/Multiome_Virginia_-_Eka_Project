@@ -1,6 +1,6 @@
 track E9.5_OFT-cNCC
     container multiWig
-    shortLabel E9.5_OFT-cNCC
+    shortLabel E9.5_OFT-cNCC Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -71,7 +71,7 @@ color 220,220,220
 
 track E9.5_Endocardial-2
     container multiWig
-    shortLabel E9.5_Endocardial-2
+    shortLabel E9.5_Endocardial-2 Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -140,7 +140,7 @@ color 220,220,220
 
 track E9.5_SHF-Prog
     container multiWig
-    shortLabel E9.5_SHF-Prog
+    shortLabel E9.5_SHF-Prog Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -211,7 +211,7 @@ color 220,220,220
 
 track E9.5_RV-CMs
     container multiWig
-    shortLabel E9.5_RV-CMs
+    shortLabel E9.5_RV-CMs Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -283,7 +283,7 @@ color 220,220,220
 
 track E9.5_EndMT
     container multiWig
-    shortLabel E9.5_EndMT
+    shortLabel E9.5_EndMT Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -356,7 +356,7 @@ color 220,220,220
 
 track E9.5_Epicardial
     container multiWig
-    shortLabel E9.5_Epicardial
+    shortLabel E9.5_Epicardial Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on
@@ -427,7 +427,7 @@ color 220,220,220
 
 track E9.5_LV-CMs
     container multiWig
-    shortLabel E9.5_LV-CMs
+    shortLabel E9.5_LV-CMs Profiles
     longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
     type bigWig 0 30000
     configurable on

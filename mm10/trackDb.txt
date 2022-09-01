@@ -58,6 +58,16 @@ configurable on
 visibility dense
 color 250,0,0 
 
+track Multiome_Julie_2022_E9.5_OFT-cNCC_Open_accessible_Chromatine_Peaks
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_sorted.bb
+itemRgb on
+shortLabel OFT-cNCC Peaks
+longLabel OFT-cNCC Open_accessible_Chromatine_Peaks       
+type bigBed 3 .
+configurable on
+visibility dense
+color 0,0,0 
+
 
 track E9.5_Endocardial-2
     container multiWig

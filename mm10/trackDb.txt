@@ -41,7 +41,7 @@ track E9.5_OFT-cNCC
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel OFT-cNCC Peaks (-A)
+shortLabel E9.5_OFT-cNCC Peaks (-A)
 longLabel OFT-cNCC Cluster_Open_Chromatine Specific Peaks (-A)      
 type bigBed 3 .
 configurable on
@@ -51,7 +51,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_unique_peaks_sorted.bb
 itemRgb on
-shortLabel OFT-cNCC Peaks
+shortLabel E9.5_OFT-cNCC Peaks
 longLabel OFT-cNCC Cluster_Open_Chromatine Specific Peaks       
 type bigBed 3 .
 configurable on
@@ -61,7 +61,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_OFT-cNCC_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/OFT-cNCC_sorted.bb
 itemRgb on
-shortLabel OFT-cNCC Peaks
+shortLabel E9.5_OFT-cNCC Peaks
 longLabel OFT-cNCC Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -111,7 +111,7 @@ track E9.5_Endocardial-2
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel Endocardial-2 Peaks (-A)
+shortLabel E9.5_Endocardial-2 Peaks (-A)
 longLabel Endocardial-2 Cluster_Open_Chromatine Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
@@ -121,7 +121,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Endocardial-2_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_unique_peaks_sorted.bb
 itemRgb on
-shortLabel Endocardial-2 Peaks 
+shortLabel E9.5_Endocardial-2 Peaks 
 longLabel Endocardial-2 Cluster_Open_Chromatine Specific Peaks       
 type bigBed 3 .
 configurable on
@@ -131,7 +131,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Endocardial-2_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Endocardial_2_sorted.bb
 itemRgb on
-shortLabel Endocardial-2 Peaks
+shortLabel E9.5_Endocardial-2 Peaks
 longLabel Endocardial-2 Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -180,7 +180,7 @@ track E9.5_SHF-Prog
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel SHF-Prog Peaks (-A)
+shortLabel E9.5_SHF-Prog Peaks (-A)
 longLabel SHF-Prog Cluster_Open_Chromatine Specific Peaks (-A)        
 type bigBed 3 .
 configurable on
@@ -190,7 +190,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_SHF-Prog_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_unique_peaks_sorted.bb
 itemRgb on
-shortLabel SHF-Prog Peaks 
+shortLabel E9.5_SHF-Prog Peaks 
 longLabel SHF-Prog Cluster_Open_Chromatine Specific Peaks       
 type bigBed 3 .
 configurable on
@@ -200,7 +200,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_SHF-Prog_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/SHF-progenitors_sorted.bb
 itemRgb on
-shortLabel SHF-Prog Peaks
+shortLabel E9.5_SHF-Prog Peaks
 longLabel SHF-Prog Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -251,7 +251,7 @@ track E9.5_RV-CMs
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel RV-CMs Peaks (-A)
+shortLabel E9.5_RV-CMs Peaks (-A)
 longLabel RV-CMs Cluster_Open_Chromatine Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
@@ -261,7 +261,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_RV-CMs_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_unique_peaks_sorted.bb
 itemRgb on
-shortLabel RV-CMs Peaks 
+shortLabel E9.5_RV-CMs Peaks 
 longLabel RV-CMs Cluster_Open_Chromatine Specific Peaks       
 type bigBed 3 .
 configurable on
@@ -271,7 +271,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_RV-CMs_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/RV-CMs_sorted.bb
 itemRgb on
-shortLabel RV-CMs Peaks
+shortLabel E9.5_RV-CMs Peaks
 longLabel RV-CMs Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -323,7 +323,7 @@ track E9.5_EndMT
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel EndMT Peaks (-A)
+shortLabel E9.5_EndMT Peaks (-A)
 longLabel EndMT Cluster_Open_Chromatine Specific Peaks (-A)        
 type bigBed 3 .
 configurable on
@@ -333,7 +333,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_EndMT_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_unique_peaks_sorted.bb
 itemRgb on
-shortLabel EndMT Peaks 
+shortLabel E9.5_EndMT Peaks 
 longLabel EndMT Cluster_Open_Chromatine Specific Peaks      
 type bigBed 3 .
 configurable on
@@ -343,7 +343,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_EndMT_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/EndMT_sorted.bb
 itemRgb on
-shortLabel EndMT Peaks
+shortLabel E9.5_EndMT Peaks
 longLabel EndMT Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -396,7 +396,7 @@ track E9.5_Epicardial
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel Epicardial Peaks (-A)
+shortLabel E9.5_Epicardial Peaks (-A)
 longLabel Epicardial Cluster_Open_Chromatine Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
@@ -406,7 +406,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Epicardial_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_unique_peaks_sorted.bb
 itemRgb on
-shortLabel Epicardial Peaks 
+shortLabel E9.5_Epicardial Peaks 
 longLabel Epicardial Cluster_Open_Chromatine Specific Peaks       
 type bigBed 3 .
 configurable on
@@ -416,7 +416,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_Epicardial_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/Epicardial_sorted.bb
 itemRgb on
-shortLabel Epicardial Peaks
+shortLabel E9.5_Epicardial Peaks
 longLabel Epicardial Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on
@@ -467,7 +467,7 @@ track E9.5_LV-CMs
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks_(-A)
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks-A_sorted.bb
 itemRgb on
-shortLabel LV-CMs Peaks (-A)
+shortLabel E9.5_LV-CMs Peaks (-A)
 longLabel LV-CMs Cluster_Open_Chromatine Specific Peaks (-A)         
 type bigBed 3 .
 configurable on
@@ -477,7 +477,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_LV-CMs_Specific_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_unique_peaks_sorted.bb
 itemRgb on
-shortLabel LV-CMs Peaks 
+shortLabel E9.5_LV-CMs Peaks 
 longLabel LV-CMs Cluster_Open_Chromatine Specific Peaks      
 type bigBed 3 .
 configurable on
@@ -487,7 +487,7 @@ color 250,0,0
 track Multiome_Julie_2022_E9.5_LV-CMs_Open_accessible_Chromatine_Peaks
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/LV-CMs_sorted.bb
 itemRgb on
-shortLabel LV-CMs Peaks
+shortLabel E9.5_LV-CMs Peaks
 longLabel LV-CMs Cluster_Open_Chromatine Peaks     
 type bigBed 3 .
 configurable on

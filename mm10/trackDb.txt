@@ -521,7 +521,7 @@ track ChIP_ES_CTCF
         longLabel ChIP_ES_CTCF_rep1
         type bigBed
 	itemRgb on
-        color #cc9966
+        color 204,153,102
           
 
         track ChIP_ES_CTCF_rep2
@@ -531,7 +531,7 @@ track ChIP_ES_CTCF
         longLabel ChIP_ES_CTCF_rep2
         type bigBed
 	itemRgb on
-        color #cc9999
+        color 204,153,153
 
 
 

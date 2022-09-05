@@ -541,7 +541,7 @@ type hic
 visibility dense
 
 track C-HiC_Shox2_Heart
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/C-HiC_Maps_hic_format_for_UCSC/Shox2_HT_merged_R1_2_001.hicup.MAPQ30.hic
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/C-HiC_Maps_hic_format_for_UCSC/Shox2_Heart_q30_5kb.hic
 shortLabel C-HiC_Shox2_Heart
 longLabel C-HiC_Shox2_Heart_Tissue(Andrey-Lab_Andrey-Probes)
 type hic

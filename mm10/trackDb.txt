@@ -516,7 +516,7 @@ track ChIP_ES_CTCF
     
         track ChIP_ES_CTCF_rep1
         parent ChIP_ES_CTCF
-        bigDataUrl 
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/ChIP_ES_CTCF_rep1.bw
 	shortLabel ChIP_ES_CTCF_rep1
         longLabel ChIP_ES_CTCF_rep1
         type bigWig
@@ -526,7 +526,7 @@ track ChIP_ES_CTCF
 
         track ChIP_ES_CTCF_rep2
         parent ChIP_ES_CTCF
-        bigDataUrl 
+        bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/Multiome_E9.5/ChIP_ES_CTCF_rep2.bw
 	shortLabel ChIP_ES_CTCF_rep2
         longLabel ChIP_ES_CTCF_rep2
         type bigWig

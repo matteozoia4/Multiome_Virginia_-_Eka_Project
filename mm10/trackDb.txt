@@ -533,5 +533,18 @@ track ChIP_ES_CTCF
 	itemRgb on
         color 204,153,153
 
+track C-HiC_Hand2_Heart
+bigDataUrl 
+shortLabel C-HiC_Hand2_Heart
+longLabel C-HiC_Hand2_Heart_Tissue(Andrey-Lab_Osterwalder-Probes)
+type hic
+visibility dense
+
+track C-HiC_Shox2_Heart
+bigDataUrl 
+shortLabel C-HiC_Shox2_Heart
+longLabel C-HiC_Shox2_Heart_Tissue(Andrey-Lab_Andrey-Probes)
+type hic
+visibility dense
 
 

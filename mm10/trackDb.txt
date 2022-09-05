@@ -534,14 +534,14 @@ track ChIP_ES_CTCF
         color 204,153,153
 
 track C-HiC_Hand2_Heart
-bigDataUrl 
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/C-HiC_Maps_hic_format_for_UCSC/Hand2_s_3_1_2_Heart.hicup.MAPQ30.hic
 shortLabel C-HiC_Hand2_Heart
 longLabel C-HiC_Hand2_Heart_Tissue(Andrey-Lab_Osterwalder-Probes)
 type hic
 visibility dense
 
 track C-HiC_Shox2_Heart
-bigDataUrl 
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/matteozoia/analyses/C-HiC_Maps_hic_format_for_UCSC/Shox2_HT_merged_R1_2_001.hicup.MAPQ30.hic
 shortLabel C-HiC_Shox2_Heart
 longLabel C-HiC_Shox2_Heart_Tissue(Andrey-Lab_Andrey-Probes)
 type hic

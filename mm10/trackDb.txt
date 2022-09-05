@@ -494,6 +494,44 @@ configurable on
 visibility dense
 color 220,220,220 
 
+track ChIP_ES_CTCF
+    container multiBed
+    shortLabel ChIP_ES_CTCF_overlay
+    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:5
+    viewLimitsMax 0:5
+    maxHeightPixels 100:40:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track ChIP_ES_CTCF_rep1
+        parent ChIP_ES_CTCF
+        bigDataUrl 
+	shortLabel ChIP_ES_CTCF_rep1
+        longLabel ChIP_ES_CTCF_rep1
+        type bigBed
+	itemRgb on
+        color #cc9966
+          
+
+        track ChIP_ES_CTCF_rep2
+        parent ChIP_ES_CTCF
+        bigDataUrl 
+	shortLabel ChIP_ES_CTCF_rep2
+        longLabel ChIP_ES_CTCF_rep2
+        type bigBed
+	itemRgb on
+        color #cc9999
 
 
 

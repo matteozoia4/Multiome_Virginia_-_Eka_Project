@@ -497,7 +497,7 @@ color 220,220,220
 track ChIP_ES_CTCF
     container multiWig
     shortLabel ChIP_ES_CTCF_overlay
-    longLabel Cluster_Specific_Open_Chromatine (red) vs Cluster_Open_Chromatine (gray)
+    longLabel ChIP_ES_CTCF_rep1 vs ChIP_ES_CTCF_rep2
     type bigWig 0 30000
     configurable on
     visibility full
